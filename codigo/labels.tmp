@@ -1,0 +1,144 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega328P</DEVICE>
+ <WORKING_DIR>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>Z:\home\lautaro\AVR Studio 4.19\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\m328Pdef.inc</FILE>
+  <FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\macros.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <inicio><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>120</LINE></inicio>
+  <inicializacion_registros><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>127</LINE></inicializacion_registros>
+  <decodificacion_de_prueba><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>164</LINE></decodificacion_de_prueba>
+  <decodificar_linea><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>231</LINE></decodificar_linea>
+  <desenmascarar><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>223</LINE></desenmascarar>
+  <continuar_sin_mascara><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>249</LINE></continuar_sin_mascara>
+  <salto_a_fin><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>256</LINE></salto_a_fin>
+  <no_es_cero><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>258</LINE></no_es_cero>
+  <leo_tipo_1A><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>351</LINE></leo_tipo_1A>
+  <FIN><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>335</LINE></FIN>
+  <no_es_uno><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>265</LINE></no_es_uno>
+  <leo_tipo_1B><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>457</LINE></leo_tipo_1B>
+  <no_es_dos><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>272</LINE></no_es_dos>
+  <leo_tipo_2A><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>575</LINE></leo_tipo_2A>
+  <no_es_tres><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>279</LINE></no_es_tres>
+  <leo_tipo_2B><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>680</LINE></leo_tipo_2B>
+  <no_es_cuatro><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>286</LINE></no_es_cuatro>
+  <no_es_cinco><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>293</LINE></no_es_cinco>
+  <no_es_seis><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>300</LINE></no_es_seis>
+  <no_es_siete><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>307</LINE></no_es_siete>
+  <no_es_ocho><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>314</LINE></no_es_ocho>
+  <no_es_nueve><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>321</LINE></no_es_nueve>
+  <no_es_diez><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>328</LINE></no_es_diez>
+  <guardo_acum1><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>817</LINE></guardo_acum1>
+  <quinto_bit_acum1_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>355</LINE></quinto_bit_acum1_sigo>
+  <incremento_contador_verticalr20><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>797</LINE></incremento_contador_verticalr20>
+  <septimo_bit_acum1_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>360</LINE></septimo_bit_acum1_sigo>
+  <primer_bit_acum2_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>364</LINE></primer_bit_acum2_sigo>
+  <tercer_bit_acum2_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>368</LINE></tercer_bit_acum2_sigo>
+  <quinto_bit_acum2_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>372</LINE></quinto_bit_acum2_sigo>
+  <septimo_bit_acum2_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>377</LINE></septimo_bit_acum2_sigo>
+  <primer_bit_acum3_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>381</LINE></primer_bit_acum3_sigo>
+  <tercer_bit_acum3_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>386</LINE></tercer_bit_acum3_sigo>
+  <incremento_contador_verticalr21><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>802</LINE></incremento_contador_verticalr21>
+  <quinto_bit_acum3_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>390</LINE></quinto_bit_acum3_sigo>
+  <septimo_bit_acum3_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>395</LINE></septimo_bit_acum3_sigo>
+  <primer_bit_acum4_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>399</LINE></primer_bit_acum4_sigo>
+  <chequeo_fila><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>407</LINE></chequeo_fila>
+  <fin_columna1><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>450</LINE></fin_columna1>
+  <es_columna8><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>414</LINE></es_columna8>
+  <septimo_bit_acum4_sigo_c8><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>418</LINE></septimo_bit_acum4_sigo_c8>
+  <salto_linea><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>422</LINE></salto_linea>
+  <primer_bit_acum5_sigo_c8><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>427</LINE></primer_bit_acum5_sigo_c8>
+  <incremento_contador_verticalr22><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>807</LINE></incremento_contador_verticalr22>
+  <tercer_bit_acum5_sigo_c8><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>432</LINE></tercer_bit_acum5_sigo_c8>
+  <quinto_bit_acum5_sigo_c8><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>436</LINE></quinto_bit_acum5_sigo_c8>
+  <septimo_bit_acum5_sigo_c8><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>440</LINE></septimo_bit_acum5_sigo_c8>
+  <primer_bit_acum6_sigo_c8><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>445</LINE></primer_bit_acum6_sigo_c8>
+  <sexto_bit_acum1_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>461</LINE></sexto_bit_acum1_sigo>
+  <octavo_bit_acum1_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>466</LINE></octavo_bit_acum1_sigo>
+  <segundo_bit_acum2_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>470</LINE></segundo_bit_acum2_sigo>
+  <cuarto_bit_acum2_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>474</LINE></cuarto_bit_acum2_sigo>
+  <sexto_bit_acum2_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>478</LINE></sexto_bit_acum2_sigo>
+  <octavo_bit_acum2_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>483</LINE></octavo_bit_acum2_sigo>
+  <segundo_bit_acum3_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>487</LINE></segundo_bit_acum3_sigo>
+  <cuarto_bit_acum3_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>492</LINE></cuarto_bit_acum3_sigo>
+  <sexto_bit_acum3_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>496</LINE></sexto_bit_acum3_sigo>
+  <octavo_bit_acum3_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>501</LINE></octavo_bit_acum3_sigo>
+  <segundo_bit_acum4_sigo><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>505</LINE></segundo_bit_acum4_sigo>
+  <chequeo_fila2><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>509</LINE></chequeo_fila2>
+  <fin_columna2><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>554</LINE></fin_columna2>
+  <es_columna9><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>516</LINE></es_columna9>
+  <sexto_bit_acum4_sigo_c9><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>520</LINE></sexto_bit_acum4_sigo_c9>
+  <salto_linea_c9><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>524</LINE></salto_linea_c9>
+  <segundo_bit_acum5_sigo_c9><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>529</LINE></segundo_bit_acum5_sigo_c9>
+  <cuarto_bit_acum5_sigo_c9><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>533</LINE></cuarto_bit_acum5_sigo_c9>
+  <sexto_bit_acum5_sigo_c9><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>537</LINE></sexto_bit_acum5_sigo_c9>
+  <octavo_bit_acum5_sigo_c9><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>541</LINE></octavo_bit_acum5_sigo_c9>
+  <segundo_bit_acum6_sigo_c9><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>545</LINE></segundo_bit_acum6_sigo_c9>
+  <guardo_en_ram><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>560</LINE></guardo_en_ram>
+  <guardo_acum2><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>825</LINE></guardo_acum2>
+  <guardo_acum3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>833</LINE></guardo_acum3>
+  <empiezo_columna_3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>569</LINE></empiezo_columna_3>
+  <guardo_acum4><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>841</LINE></guardo_acum4>
+  <guardo_acum5><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>849</LINE></guardo_acum5>
+  <tercer_bit_acum1_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>579</LINE></tercer_bit_acum1_sigo_c3>
+  <primer_bit_acum1_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>584</LINE></primer_bit_acum1_sigo_c3>
+  <septimo_bit_acum2_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>588</LINE></septimo_bit_acum2_sigo_c3>
+  <quinto_bit_acum2_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>592</LINE></quinto_bit_acum2_sigo_c3>
+  <tercer_bit_acum2_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>596</LINE></tercer_bit_acum2_sigo_c3>
+  <primer_bit_acum2_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>601</LINE></primer_bit_acum2_sigo_c3>
+  <septimo_bit_acum3_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>605</LINE></septimo_bit_acum3_sigo_c3>
+  <quinto_bit_acum3_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>610</LINE></quinto_bit_acum3_sigo_c3>
+  <tercer_bit_acum3_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>614</LINE></tercer_bit_acum3_sigo_c3>
+  <primer_bit_acum3_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>619</LINE></primer_bit_acum3_sigo_c3>
+  <septimo_bit_acum4_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>623</LINE></septimo_bit_acum4_sigo_c3>
+  <chequeo_fila3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>632</LINE></chequeo_fila3>
+  <fin_columna3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>674</LINE></fin_columna3>
+  <es_columna10><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>639</LINE></es_columna10>
+  <tercer_bit_acum4_sigo_c10><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>643</LINE></tercer_bit_acum4_sigo_c10>
+  <salto_linea_c10><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>648</LINE></salto_linea_c10>
+  <septimo_bit_acum5_sigo_c10><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>653</LINE></septimo_bit_acum5_sigo_c10>
+  <quinto_bit_acum5_sigo_c10><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>657</LINE></quinto_bit_acum5_sigo_c10>
+  <tercer_bit_acum5_sigo_c10><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>661</LINE></tercer_bit_acum5_sigo_c10>
+  <primer_bit_acum5_sigo_c10><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>666</LINE></primer_bit_acum5_sigo_c10>
+  <septimo_bit_acum6_sigo_c10><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>670</LINE></septimo_bit_acum6_sigo_c10>
+  <cuarto_bit_acum1_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>684</LINE></cuarto_bit_acum1_sigo_c3>
+  <segundo_bit_acum1_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>689</LINE></segundo_bit_acum1_sigo_c3>
+  <octavo_bit_acum2_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>693</LINE></octavo_bit_acum2_sigo_c3>
+  <sexto_bit_acum2_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>697</LINE></sexto_bit_acum2_sigo_c3>
+  <cuarto_bit_acum2_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>701</LINE></cuarto_bit_acum2_sigo_c3>
+  <segundo_bit_acum2_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>706</LINE></segundo_bit_acum2_sigo_c3>
+  <octavo_bit_acum3_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>710</LINE></octavo_bit_acum3_sigo_c3>
+  <sexto_bit_acum3_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>715</LINE></sexto_bit_acum3_sigo_c3>
+  <cuarto_bit_acum3_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>719</LINE></cuarto_bit_acum3_sigo_c3>
+  <segundo_bit_acum3_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>724</LINE></segundo_bit_acum3_sigo_c3>
+  <octavo_bit_acum4_sigo_c3><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>728</LINE></octavo_bit_acum4_sigo_c3>
+  <chequeo_fila4><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>737</LINE></chequeo_fila4>
+  <fin_columna4><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>779</LINE></fin_columna4>
+  <es_columna11><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>744</LINE></es_columna11>
+  <cuarto_bit_acum4_sigo_c11><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>748</LINE></cuarto_bit_acum4_sigo_c11>
+  <salto_linea_c11><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>753</LINE></salto_linea_c11>
+  <octavo_bit_acum5_sigo_c11><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>758</LINE></octavo_bit_acum5_sigo_c11>
+  <sexto_bit_acum5_sigo_c11><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>762</LINE></sexto_bit_acum5_sigo_c11>
+  <cuarto_bit_acum5_sigo_c11><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>766</LINE></cuarto_bit_acum5_sigo_c11>
+  <segundo_bit_acum5_sigo_c11><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>771</LINE></segundo_bit_acum5_sigo_c11>
+  <octavo_bit_acum6_sigo_c11><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>775</LINE></octavo_bit_acum6_sigo_c11>
+  <guardo_parcial_sram><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>784</LINE></guardo_parcial_sram>
+  <guardo_acum6><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>857</LINE></guardo_acum6>
+  <incremento_contador_horizontal><FILE>Z:\home\lautaro\Documents\Facultad\Laboratorio de Microprocesadores\TP\decodificacion_avr\decodificacion_avr.asm</FILE><LINE>812</LINE></incremento_contador_horizontal>
+ </LABELS>
+</ASSEMBLER_INFO>
